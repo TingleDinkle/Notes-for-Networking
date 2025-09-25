@@ -38,7 +38,7 @@ LAN switch: is ONLY used for connecting, basically nothing else
 
 Multilayer switch: connects using many more switches, aka more pathways aka a switch with many pathways pretty much it.
 
-About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the sound through network?? (not sure, teacher goes on about it being fascinating but focused on other points after brief explanation)
+About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the sound through network?? (not sure)
 
 Network Representation
 ----------------------
