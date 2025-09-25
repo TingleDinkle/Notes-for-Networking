@@ -60,8 +60,10 @@ To NOT do(yet) cuz too hard:
 - Area of responsibility
 
 Size(ascending order): PAN->WLAN->LAN->CAN->MAN->WAN
+
 Number of users connected: 1-10->10-100->100-1000->1000-10.000->10.000-100.000->1.000.000-1.000.000.000
 very small->small->small-average->average->big->very big
+
 Abbreviation solve for dummies(me): Personal Area Network->Wireless LAN->Local Area Network->Campus Area Network->Metropolitan Area Network->Wide Area Network
 
 Security Threats
