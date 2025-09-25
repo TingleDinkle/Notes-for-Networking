@@ -43,7 +43,11 @@ About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the 
 Network Representation
 ----------------------
 - Physical topology: the physical location of intermediary devices and cable installation.
+  
 - Logical topology: illustrates devices, ports, and the addressing scheme of the network.
+
+  
+   ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/92a0610e98db5c7f13399e62b22eed4baee91533/image.png)
 
 Intermediary devices example: Wireless router, LAN Switch, Router, Multilayer Switch, Firewall Appliance.
 
@@ -56,15 +60,6 @@ Multilayer switch: connects using many more switches, aka more pathways aka a sw
 fun fact about Russian for some reasons( if you actually read my notes you'll find this unrelated): u and y is said in reverse compared to how we(normal people) usually says it
 
 About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the sound through network?? (not sure, teacher goes on about it being fascinating but focused on other points after brief explanation)
-
-Network Representation
-----------------------
-- Physical topology: the physical location of intermediary devices and cable installation.
-  
-- Logical topology: illustrates devices, ports, and the addressing scheme of the network.
-
-  
-   ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/92a0610e98db5c7f13399e62b22eed4baee91533/image.png)
 
 Security Threats
 ----------------
