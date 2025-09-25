@@ -60,4 +60,67 @@ About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the 
 Network Representation
 ----------------------
 - Physical topology: the physical location of intermediary devices and cable installation.
+- 
 - Logical topology: illustrates devices, ports, and the addressing scheme of the network.
+
+  
+   ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/92a0610e98db5c7f13399e62b22eed4baee91533/image.png)
+
+Security Threats
+----------------
+https://docs.google.com/document/d/1Dto63rntqmhdeRu6oYHPh5Jj4sOezSn3L6Pycmb11uE/edit?usp=sharing
+
+The report of Security Threats
+
+Module Objectives
+-----------------
+Hub: Is the same as a switch, but now less commonly used because of less secure connection.
+
+Switch: Explained in previous notes above, used the most currently along with route.
+
+Route: Same thing as Switch notes.
+
+Networking Devices
+------------------
+A Network service needs an address(or also known as IP), so they know where to send their data to.
+
+Usually you will be using IPv4.
+
+Networking services example: Vinaphone, Viettel,..etc
+
+Network Interface Card
+----------------------
+- Is basically a physical hardware that is responsible for handling networks in your device, you almost always HAVE to have it to connect to the internet or wifi.
+
+Hub
+---
+- Transfer data through multiple ports.
+
+Switch
+------
+- Have a table that holds all of the information of MACs in different device and saves it to the table once a connection is made.
+- Also works through ports but through a table system, which is different from a Hub.
+
+Unrelated note: any LAN networks work with MAC addresses.
+
+Router
+------
+- Finds the most efficient path to send to the end device that might receive the data through IP addresses. 
+
+For example: your way to school have two ways, one is 5km, one is 10km, yet, the most efficient way is faster in the way that the 10km road is cleaner and there are less vehicles occupying it. Efficiency is the fastest time.
+
+- Connects to IP Addresses outside of the LAN.
+
+ -Gateway-Router-IP
+
+ -Port-Switch
+
+Cisco Packet Tracer:
+>: limited
+
+> #: full function
+
+> (config)#: configuration
+
+
+![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/f8401d796d34f8e5cfdab52c0b6952011306c494/image1.png)
