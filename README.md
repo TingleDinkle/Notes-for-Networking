@@ -54,6 +54,7 @@ LANs and WANs
 To do research on:
 - Size of area covered
 - Number of users connected
+  
 To NOT do(yet) cuz too hard:
 - Number and types of services available
 - Area of responsibility
