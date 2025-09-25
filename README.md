@@ -53,14 +53,14 @@ LAN switch: is ONLY used for connecting, basically nothing else
 
 Multilayer switch: connects using many more switches, aka more pathways aka a switch with many pathways pretty much it.
 
-fun fact about Russian for some reasons from teacher: u and y is said in reverse compared to how we(normal people) usually says it
+fun fact about Russian for some reasons( if you actually read my notes you'll find this unrelated): u and y is said in reverse compared to how we(normal people) usually says it
 
 About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the sound through network?? (not sure, teacher goes on about it being fascinating but focused on other points after brief explanation)
 
 Network Representation
 ----------------------
 - Physical topology: the physical location of intermediary devices and cable installation.
-- 
+  
 - Logical topology: illustrates devices, ports, and the addressing scheme of the network.
 
   
