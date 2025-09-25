@@ -49,17 +49,19 @@ Network Representation
   
    ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/92a0610e98db5c7f13399e62b22eed4baee91533/image.png)
 
-Intermediary devices example: Wireless router, LAN Switch, Router, Multilayer Switch, Firewall Appliance.
+LANs and WANs
+-------------
+To do research on:
+- Size of area covered
+- Number of users connected
+To NOT do(yet) cuz too hard:
+- Number and types of services available
+- Area of responsibility
 
-Router(or access point) usage: Makes sure the "path" is efficient and makes it's way to the intended end device. (VERY loose definition, needs further clarification).
-
-LAN switch: is ONLY used for connecting, basically nothing else
-
-Multilayer switch: connects using many more switches, aka more pathways aka a switch with many pathways pretty much it.
-
-fun fact about Russian for some reasons( if you actually read my notes you'll find this unrelated): u and y is said in reverse compared to how we(normal people) usually says it
-
-About VoIP phone: It doesn't take any "data" as a normal IP Phone, but only the sound through network?? (not sure, teacher goes on about it being fascinating but focused on other points after brief explanation)
+Size(ascending order): PAN->WLAN->LAN->CAN->MAN->WAN
+Number of users connected: 1-10->10-100->100-1000->1000-10.000->10.000-100.000->1.000.000-1.000.000.000
+very small->small->small-average->average->big->very big
+Abbreviation solve for dummies(me): Personal Area Network->Wireless LAN->Local Area Network->Campus Area Network->Metropolitan Area Network->Wide Area Network
 
 Security Threats
 ----------------
