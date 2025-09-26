@@ -127,3 +127,9 @@ Cisco Packet Tracer:
 ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/f8401d796d34f8e5cfdab52c0b6952011306c494/image1.png)
 
 Config Settings Report for Cisco Packet Tracer(configuring passwords on routers and switches, configuring SSH on router): https://docs.google.com/document/d/1EqirhWrfimHeYUvpIfVKuo4nJQpftnXeSzVoAxbVuoA/edit?usp=sharing
+
+![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/6b4b03e738bdc6ebd4f5d8e61b9a43d3cc2ac742/Screenshot%202025-09-26%20123117.png)
+
+192.168.10.1: IP
+
+255.255.255.0: Subnet Mask
