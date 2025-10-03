@@ -154,7 +154,7 @@ Message Encoding
 Message Formatting and Encapsulation
 ------------------------------------
 - Encapsulation: ALWAYS go through these 7 layers
-
+ ![image alt](https://github.com/TingleDinkle/Notes-for-Networking/blob/9add4e2c89fdcc92fe674346f636f25acbdfe548/Screenshot%202025-10-03%20155630.png)
 
 Message Size
 ------------
@@ -184,3 +184,4 @@ ARP
 ---
 - ARP, or Address Resolution Protocol...(paused here)
 
+Lab 3: https://docs.google.com/document/d/1Oo8SUQS7kIzVoNvqmxhO7aJodMuJ3rrG/edit?usp=sharing&ouid=102375238109184631579&rtpof=true&sd=true (WIP)
