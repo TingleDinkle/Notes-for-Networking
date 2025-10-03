@@ -168,9 +168,9 @@ Message Size
 
 Message Timing
 --------------
--Flow Control: Rate of transmission and how much information can be sent and the speed at which it can be delivered
+- Flow Control: Rate of transmission and how much information can be sent and the speed at which it can be delivered
 
--Response Timeout: How long a device waits when it doesn't get reply from destination.
+- Response Timeout: How long a device waits when it doesn't get reply from destination.
 
 Message Delivery Options
 ------------------------
