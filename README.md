@@ -133,3 +133,54 @@ Config Settings Report for Cisco Packet Tracer(configuring passwords on routers 
 192.168.10.1: IP
 
 255.255.255.0: Subnet Mask
+
+The Rules
+---------
+Common computer protocols should entails these requirements as follow:
+- Message encoding
+
+- Message formatting and encapsulation
+
+- Message size
+
+- Message timing
+
+- Message delivery options
+
+Message Encoding
+----------------
+- Encoding is converting information into another form for acceptable transmission.
+
+Message Formatting and Encapsulation
+------------------------------------
+- Encapsulation: ALWAYS go through these 7 layers
+
+
+Message Size
+------------
+- Encoding between hosts MUST be in an appropriate format for the medium.
+
+- Messages across the network are converted into bits.
+
+- Bits then are encoded into a pattern of light, sound, or electrical impulses.
+
+- The destination host MUST decode that to then interpret message.
+
+Message Timing
+--------------
+-Flow Control: Rate of transmission and how much information can be sent and the speed at which it can be delivered
+
+-Response Timeout: How long a device waits when it doesn't get reply from destination.
+
+Message Delivery Options
+------------------------
+- Unicast: one to one communication.
+
+- Multicast: one to many, usually not all.
+
+- Broadcast: one to ALL.
+
+ARP
+---
+- ARP, or Address Resolution Protocol...(paused here)
+
