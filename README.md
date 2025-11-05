@@ -1,7 +1,7 @@
 # Notes-for-Networking
 My notes while I'm learning about networks!
 
-
+Also some labs and assignment.
 
 Networking today
 ---------------
