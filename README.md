@@ -180,9 +180,6 @@ Message Delivery Options
 
 - Broadcast: one to ALL.
 
-ARP
----
-- ARP, or Address Resolution Protocol...(paused here)
 
 Lab 3: https://docs.google.com/document/d/1Oo8SUQS7kIzVoNvqmxhO7aJodMuJ3rrG/edit?usp=sharing&ouid=102375238109184631579&rtpof=true&sd=true (finished)
 
