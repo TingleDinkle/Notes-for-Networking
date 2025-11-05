@@ -186,4 +186,4 @@ ARP
 
 Lab 3: https://docs.google.com/document/d/1Oo8SUQS7kIzVoNvqmxhO7aJodMuJ3rrG/edit?usp=sharing&ouid=102375238109184631579&rtpof=true&sd=true (finished)
 
-WORKING ON HUGE ASSIGNMENT TO FURTHER UNDERSTAND THE BASICS OF NETWORKING FULLY.
+# ULTRA NETWORKING REPORT
